@@ -9,7 +9,7 @@ public class HemoVoracityTarget : TargetRules
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		bUsesSteam = true;
+		//bUsesSteam = true;
 		ExtraModuleNames.AddRange( new string[] { "HemoVoracity" } );
 	}
 }
